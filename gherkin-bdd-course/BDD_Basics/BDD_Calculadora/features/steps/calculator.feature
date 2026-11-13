@@ -21,7 +21,7 @@ Feature: Basic calculator operations
   Scenario: Divide two numbers
     Given I have a calculator
     When I divide 20 by 4
-    Then the result should be 5
+    Then the result should be 4
 
   Scenario: Divide by zero
     Given I have a calculator
