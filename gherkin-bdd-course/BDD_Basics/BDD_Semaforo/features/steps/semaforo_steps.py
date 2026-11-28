@@ -1,3 +1,4 @@
+#Ejemplo semaforo
 from behave import given, when, then
 from semaforo import Semaforo
 
